@@ -16,7 +16,7 @@ classifier = linear_model.LogisticRegression(solver='liblinear', C=100)
 
 > If value of 'C' is higher than now, you can optimize about algorithm of learning data. 
 
-![Alt text](Logistic_Regression_Classifier/result_image.png)
+!(https://raw.githubusercontent.com/LeeGitaek/Logistic_Regression_Classifier/master/result_image.png)
 
         
       
