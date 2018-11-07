@@ -1,7 +1,8 @@
 # Logistic_Regression_Classifier
 Logistic_Regression_Classifier using python library
 
-###Logistic_Regression_Classifier.py
+Logistic_Regression_Classifier.py
+==================================
 
 > c = 1 (now)  ex) change c = 1 to c = 100
 <pre><code>
