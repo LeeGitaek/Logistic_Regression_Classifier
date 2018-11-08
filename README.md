@@ -18,5 +18,5 @@ classifier = linear_model.LogisticRegression(solver='liblinear', C=100)
 
 ![Result Image](https://raw.githubusercontent.com/LeeGitaek/Logistic_Regression_Classifier/master/result_image.png "c=100")
 
-        
+* Warn -> overfitting
       
